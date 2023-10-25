@@ -1,5 +1,5 @@
 # Transformer and Large Language Model Reading List (Updating)
-
+Chinese version: [README_CN.md](README_CN.md)
 ## Basic
 
 Surveys:
