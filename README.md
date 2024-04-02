@@ -1,6 +1,39 @@
-# Transformer and Large Language Model Reading List (Updating)
-Chinese version: [README_CN.md](README_CN.md)
-## Basic
+# Learning NLP and Large Language Model (LLM)
+- Personal learning path for NLP and Large Language Model (LLM)
+- Paper recommendations
+
+Chinese version: [README_CN.md](README_CN.md) (in progress)
+
+# NLP Learning Materials
+
+**Notes: **
+
+1. **I don't recommend older materials (even if they are "classic") because everything changes fast in NLP**
+2. **You need to know basic knowledge of machine learning and Python**
+   1. **Machine learning courses:** 
+      1. **[Home | CS 189/289A (eecs189.org)](https://eecs189.org/)**
+      2. **[CS229: Machine Learning (stanford.edu)](https://cs229.stanford.edu/) (theoretic perspective)**
+   2. **Python: too many courses... (ex: [CS50's Introduction to Programming with Python (harvard.edu)](https://cs50.harvard.edu/python/2022/) )**
+
+Courses / Tutorials: 
+
+- [Stanford CS 224N | Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
+- [CS224U: Natural Language Understanding - Spring 2023 (stanford.edu)](https://web.stanford.edu/class/cs224u/)
+- [Lena Voita (lena-voita.github.io)](https://lena-voita.github.io/)
+- [Introduction - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) (good intro about huggingface libraries)
+
+Books:
+
+- [Speech and Language Processing (stanford.edu)](https://web.stanford.edu/~jurafsky/slp3/)
+- [Natural Language Processing with Transformers Book](https://transformersbook.com/)
+
+Blogs:
+
+- [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Understanding Large Language Models -- A Transformative Reading  List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+
+# Important Papers (In Progress)
 
 Surveys:
 
@@ -9,12 +42,6 @@ Surveys:
 - [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 - [Understanding Large Language Models -- A Transformative Reading  List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 - [Foundational must read GPT/LLM papers](https://community.openai.com/t/foundational-must-read-gpt-llm-papers/197003/10)
-
-Transformers:
-
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 ## LLM Popular Models
 
