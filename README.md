@@ -27,25 +27,35 @@ Books:
 - [Speech and Language Processing (stanford.edu)](https://web.stanford.edu/~jurafsky/slp3/)
 - [Natural Language Processing with Transformers Book](https://transformersbook.com/)
 
-Blogs:
+Articles:
 
-- [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-- [Understanding Large Language Models -- A Transformative Reading  List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+- Intro to Transformer model:
+  - [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
+  - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+  - [Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 
-# Important Papers (In Progress)
+- Reading lists: 
+  - [Understanding Large Language Models -- A Transformative Reading  List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+  - [Foundational must read GPT/LLM papers](https://community.openai.com/t/foundational-must-read-gpt-llm-papers/197003/10)
 
-Surveys:
+
+# Important Papers
+
+**Note: I haven't read all of the papers in detail so I may change this list frequently**
+
+## Surveys
 
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
-- [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) 
-- [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
-- [Understanding Large Language Models -- A Transformative Reading  List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-- [Foundational must read GPT/LLM papers](https://community.openai.com/t/foundational-must-read-gpt-llm-papers/197003/10)
+- [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+- [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
 
-## LLM Popular Models
+## Language Model Papers and Reports
+
+- [Transformer original paper](https://arxiv.org/abs/1706.03762)
 
 - [BERT](https://aclanthology.org/N19-1423.pdf)
+
+- [DistilBERT](https://arxiv.org/abs/1910.01108)
 
 - [GPT 1.0](https://openai.com/research/language-unsupervised)
 
@@ -83,6 +93,10 @@ Surveys:
 - [Falcon-7B](https://huggingface.co/tiiuae/falcon-7b)
 
 - [Baichuan2-7B](https://github.com/baichuan-inc/Baichuan2)
+
+- [Mistral 7B](https://arxiv.org/abs/2310.06825)
+
+- [Claude 3](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf)
 
 ## LLM Learning and Tuning Techniques
 
